@@ -27,7 +27,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-require "ed25519-hd-rb"
+require "ed25519-hd"
 include HDKEY
 
 seed = "000102030405060708090a0b0c0d0e0f"
